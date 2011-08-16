@@ -1,1 +1,4 @@
 See http://wingolog.org/archives/2005/10/28/profiling for more information
+
+This version no longer needs py-itimer because itimer support is built into
+python 2.6+
